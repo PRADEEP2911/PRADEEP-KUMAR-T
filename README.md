@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PRADEEP KUMAR THANGAM
+- 👋 Hi, I’m PRADEEP KUMAR THANGAM
 - 👀 I’m interested in learning coading
 - 🌱 I’m learning Python and Datascience
 - 💞️ I’m looking to collaborate on ...
